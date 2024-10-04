@@ -1,3 +1,12 @@
+###Headphone
+## Description
+ A headphone site is an online platform dedicated to showcasing, selling, or reviewing various types of headphones and related accessories.
+## Demo
+headphone-lac.vercel.app
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
